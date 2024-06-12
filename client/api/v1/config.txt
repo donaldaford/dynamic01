@@ -1,6 +1,6 @@
 {
   "key": "v2b_naicha",
-  "host_source": "http://sg1.whatfuck.top:35651",
+  "host_source": "https://superboard.top",
   "target": 1,
   "email": "",
   "tg": "",
@@ -20,6 +20,6 @@
     "Alipay": "1"
   },
   "hosts": [
-    "http://sg1.whatfuck.top:35651"
+    "https://superboard.top"
   ]
 }
